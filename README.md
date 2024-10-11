@@ -1,2 +1,2 @@
 # webpConverter
- 
+ pip install Pillow
